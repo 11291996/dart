@@ -1,5 +1,5 @@
- enum Color {red, green, blue} //enum
-
 void main() {
-  print(Color.red);
+  String str;
+  str = "Hello, World!";
+  print(str);
 }
